@@ -166,4 +166,6 @@ chmod 644 .ssh/authorized_keys
 
 ### Locate the SSH key created for the grader key ###
 
-The grader key is located in the .ssh folder within the home folder of grader
+<br/>
+
+The grader key is located in the repository along with this README file
