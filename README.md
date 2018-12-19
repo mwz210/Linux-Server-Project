@@ -163,6 +163,7 @@ chmod 644 .ssh/authorized_keys
 7. Added my item-catalog-project for deploy within apache folder </br>
 8. Made additional necessary changes in file catalog.conf to handle connections. </br>
 9. Made a python virtual environment for running python code. </br>
+10. Changed sshd_config to prevent root from being able to login </br>
 
 ### Locate the SSH key created for the grader key ###
 
